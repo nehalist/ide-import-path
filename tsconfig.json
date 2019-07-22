@@ -17,6 +17,11 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "custom-lib": [
+        "./projects/lib/src/public-api"
+      ]
+    }
   }
 }
